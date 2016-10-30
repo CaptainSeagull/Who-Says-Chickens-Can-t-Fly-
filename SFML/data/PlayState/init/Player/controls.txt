@@ -1,0 +1,4 @@
+move_left: arrow_left
+move_right: arrow_right
+move_down: arrow_down
+move_up: arrow_up

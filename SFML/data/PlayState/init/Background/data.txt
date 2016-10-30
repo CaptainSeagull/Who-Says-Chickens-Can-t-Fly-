@@ -1,0 +1,1 @@
+number_of_background_layers: 6

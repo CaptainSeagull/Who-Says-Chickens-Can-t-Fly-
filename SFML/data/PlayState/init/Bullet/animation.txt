@@ -1,0 +1,16 @@
+# Right
+animation: Left
+frames: 0 0
+speed: 0
+# Left
+animation: Right
+frames: 1 1
+speed: 0
+# Up
+animation: Up
+frames: 2 2
+speed: 0
+# Down
+animation: Down
+frames: 3 3
+speed: 0

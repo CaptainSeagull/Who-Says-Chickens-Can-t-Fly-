@@ -1,0 +1,4 @@
+# How fast the enemy shoots
+shot_timer: 0.9
+# If the enemy shoots or not
+shoots: 1

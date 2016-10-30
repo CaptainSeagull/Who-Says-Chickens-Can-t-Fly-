@@ -1,0 +1,3 @@
+# Camera Stuff
+pos: 0 0
+size: 800 600

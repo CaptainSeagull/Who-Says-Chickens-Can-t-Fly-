@@ -1,0 +1,9 @@
+# The order goes - Further back first, closest last
+# Speeds MUST be negative
+# Increase the speed negatively makes the background move slower
+speed: -95 0
+speed: -80 0
+speed: -60 0
+speed: -50 0
+speed: -40 0
+speed: -25 0

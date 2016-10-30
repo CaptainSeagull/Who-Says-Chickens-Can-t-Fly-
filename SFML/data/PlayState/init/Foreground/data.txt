@@ -1,0 +1,6 @@
+layer: 20
+speed: -800 0
+max_number: 3000
+min_number: 0
+collision_box_position: 0 0
+collision_box_size: 0 0

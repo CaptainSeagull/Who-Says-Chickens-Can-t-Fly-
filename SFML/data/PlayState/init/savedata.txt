@@ -1,0 +1,69 @@
+# This is save data
+# If it's says NULL, then there is no save data
+# Save data will be deleted upon entering the highscore screen
+level: level4
+player_position: 604.498535 256.000000
+score: 0
+score: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+scrolling_speed: 180
+fast_scrolling_speed: 400
+slow_scrolling_speed: 100
+# Can be either keyboard or mouse
+controls: keyboard
+background_track: 567816_Linsane-Firelight.ogg
+grid: 64 64
+number_of_enemy_types: 6
+# The position onscreen that the score's drawn at
+score_pos: 50 20
+score_colour: black

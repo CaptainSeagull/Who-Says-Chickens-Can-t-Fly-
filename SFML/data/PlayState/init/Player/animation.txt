@@ -1,0 +1,32 @@
+# Normal Flight
+animation: Neutral
+frames: 24 26
+speed: 15
+# Neutral to Down
+animation: NeutralToDown
+frames: 1 6
+speed: 30
+# Down
+animation: Down
+frames: 6 6
+speed: 30
+# Down to Neutral
+animation: DownToNeutral
+frames: 7 12
+speed: 30
+# Neutral to Up
+animation: NeutralToUp
+frames: 12 17
+speed: 30
+# Up
+animation: Up
+frames: 17 17
+speed: 30
+# Up to Neutral
+animation: UpToNeutral
+frames: 17 24
+speed: 30
+# Dead
+animation: Dead
+frames: 27 27
+speed: 0

@@ -1,0 +1,6 @@
+max_number: 1
+min_number: 1
+layer: 14
+size: 128 128
+collision_box_position: 38 55
+collision_box_size: 82 35

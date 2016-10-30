@@ -1,0 +1,13 @@
+button: Player
+button: Block
+button: BreakableBlock
+button: Enemy1
+button: Enemy2
+button: Enemy3
+button: Enemy4
+button: Enemy5
+button: Enemy6
+button: Boss
+button: Foreground
+button: Checkpoint
+button: NextLevel

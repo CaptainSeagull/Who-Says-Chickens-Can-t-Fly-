@@ -1,0 +1,8 @@
+# Normal Flight
+animation: Normal
+frames: 0 4
+speed: 20
+# Death
+animation: Death
+frames: 5 9
+speed: 20

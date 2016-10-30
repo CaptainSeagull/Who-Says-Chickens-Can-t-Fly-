@@ -1,0 +1,3 @@
+# This Position is relative to the camera
+not_saved_pos: 50 50
+scrolling_speed: 1500 0

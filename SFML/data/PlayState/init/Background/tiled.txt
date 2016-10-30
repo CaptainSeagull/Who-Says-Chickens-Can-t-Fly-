@@ -1,0 +1,6 @@
+tiled: 30 1
+tiled: 40 1
+tiled: 50 1
+tiled: 60 1
+tiled: 60 1
+tiled: 60 1

@@ -1,0 +1,7 @@
+max_number: 100
+min_number: 0
+layer: 14
+size: 128 128
+speed: 0 0
+collision_box_position: 0 0
+collision_box_size: 128 128

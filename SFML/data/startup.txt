@@ -1,0 +1,7 @@
+screenWidth: 1024
+screenHeight: 768
+screenTitle: Who Says Chickens Can't Fly?!
+startingState: PlayState
+# This is the number of draw calls that can be skipped when the game slows down
+# This is used as an attempt to call the update() more frequently to get past the slowdown
+draw_calls_skipped_during_slowdown: 10

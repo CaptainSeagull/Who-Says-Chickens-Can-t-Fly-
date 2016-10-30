@@ -1,0 +1,33 @@
+﻿  Utility.cpp
+  UserInput.cpp
+  TextureManager.cpp
+  TextManager.cpp
+  Test_UserInput.cpp
+  StaticEntity.cpp
+  StateManager.cpp
+  SplashScreenState.cpp
+  SoundManager.cpp
+  PlayState.cpp
+  main.cpp
+  IOManager.cpp
+  GameContext.cpp
+  RocketSmoke.cpp
+  Renderer.cpp
+  PlayerControls.cpp
+  PlayerAnimation.cpp
+  MainMenuState.cpp
+  LevelEditor.cpp
+  HighScoreState.cpp
+  Generating Code...
+  Compiling...
+  GameLogic.cpp
+  ErrorHandler.cpp
+  EntityManager.cpp
+  DynamicEntity.cpp
+  CreditsState.cpp
+  Controllers.cpp
+  Camera.cpp
+  AbstractState.cpp
+  AbstractEntity.cpp
+  Generating Code...
+  SFML.vcxproj -> C:\Users\seagu_000\Desktop\stuff\personal\projects\chicken\SFML\Debug\SFML.exe

@@ -1,0 +1,5 @@
+button: Play
+button: HowToPlay
+button: Quit
+button: Load
+button: Title

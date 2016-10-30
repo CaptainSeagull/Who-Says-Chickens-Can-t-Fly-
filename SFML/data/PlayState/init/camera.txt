@@ -1,0 +1,7 @@
+# Camera Stuff
+pos: 0 0
+size: 1024 768
+margin_left: 20
+margin_right: 160
+margin_top: 10
+margin_bottom: 120

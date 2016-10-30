@@ -1,0 +1,6 @@
+max_number_of_bullets: 50
+size: 16 16
+bullet_speed: 700 700
+collision_box_position: 0 0
+collision_box_size: 8 8
+depth: 13

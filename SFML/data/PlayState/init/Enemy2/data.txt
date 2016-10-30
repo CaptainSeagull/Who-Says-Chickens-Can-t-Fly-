@@ -1,0 +1,8 @@
+max_number: 100
+min_number: 0
+layer: 14
+size: 128 128
+speed: 60 100
+vertical_travel_distance: 100
+collision_box_position: 45 15
+collision_box_size: 35 60

@@ -1,0 +1,4 @@
+# Normal Flight
+animation: Normal
+frames: 0 0
+speed: 0
